@@ -36,10 +36,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashumak&theme=radical&hide_border=true)]([https://github.com/PurvanshuCoder])
 
 ### 🖥 Top Languages  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashumak&layout=compact&theme=radical&hide=html,css)](https://github.com/yashumak)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashumak&layout=compact&theme=radical&hide=html,css)]([https://github.com/PurvanshuCoder])
 
 ### 📌 Profile Summary  
-[![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashumak&theme=radical)](https://github.com/yashumak)
+[![GitHub Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashumak&theme=radical)](https://github.com/PurvanshuCoder)
 
 ---
 
